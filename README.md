@@ -63,7 +63,6 @@ Primary keys and foreign keys were implemented to maintain data integrity and es
 ## Files Included
 
 * Blinkit_Analysis.sql
-* Query Outputs
 
 ## Author
 
